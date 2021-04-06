@@ -1,0 +1,6 @@
+<ScriptFile>
+	<mob_proto_extract
+		path="mob_proto"
+		output="mob_proto_dump.xml"
+	/>
+</ScriptFile>

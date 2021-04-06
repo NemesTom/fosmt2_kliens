@@ -1,0 +1,9 @@
+Kicsomagolás:
+
+Bemásolod a mappába az item_proto-t, aztán megnyitod az "unpack_item_proto.bat" fájlt.
+Készít egy "item_proto.xml" nevû fájlt 3000kb körülit, amit tudsz szerkeszteni Notepad++-al.
+
+
+Becsomagolás:
+
+Ha végeztél a szerkesztéssel, akkor "pack_item_proto.bat"-ot megnyitod, és visszacsomagolja az item_proto-t.

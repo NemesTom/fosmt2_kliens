@@ -1,0 +1,5 @@
+- [Py] Request auto-cancel by overtime - P3NG3R || uiCommon.py, game.py, locale/xy/locale_game.txt 
+- GF LoadMap performance snippet - P3NG3R || introloading.py
+- Monster Informations Official like (Lv+AIFlag) - P3NG3R || uigameoption.py locale/xy/locale_interface.txt, uiscript
+- 4 leltár || locale/xy/ui/Inventorywindow.py, locale/xy/locale_interface.txt, uiscript/Beltinventorywindow.py, uiinventory.py, uiselectitem.py
+- dragon_soul_refine értékek javítva || dragon_soul_refine_settings.py

@@ -1,0 +1,14 @@
+Module Name: C:\Users\Admin\Documents\MEGAsync Downloads\Jelenlegi_HU_kliens\metin2client.exe
+Time Stamp: 0x5b92c51d - (null)
+
+Exception Type: 0xc0000005
+
+eax: 0x00000080	ebx: 0x00000006
+ecx: 0x080673c0	edx: 0x00000080
+esi: 0x00000008	edi: 0x00000002
+ebp: 0x0012eabc	esp: 0x0012eaa0
+
+0x06f04ec5	C:\Windows\system32\igdumd32.dll
+0x06f1c20f	C:\Windows\system32\igdumd32.dll
+0x080673c0	
+

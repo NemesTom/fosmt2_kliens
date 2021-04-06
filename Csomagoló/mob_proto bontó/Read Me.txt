@@ -1,0 +1,9 @@
+Kicsomagolás:
+
+Bemásolod a mappába a mob_proto-t, aztán megnyitod a "mob_proto_kicsomagolás.bat" fájlt.
+Készít egy "mob_proto_dump.xml" nevû fájlt 1100kb körülit, amit tudsz szerkeszteni Notepad++-al.
+
+
+Becsomagolás:
+
+Ha végeztél a szerkesztéssel, akkor "mob_proto_becsomagolás.bat"-ot megnyitod, és visszacsomagolja a mob_proto-t.

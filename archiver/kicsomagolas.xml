@@ -1,0 +1,16 @@
+<!--
+	ArchivePath:  Az archivum neve
+	OutputPath:   A mappa neve ahova a kicsomagolt dolgokat rakja
+	CreateXml:    Becsomagolasi XML keszitese
+	XmlPath: 	  A becsomagolasi XML neve
+-->
+
+<ScriptFile>
+<ExtractEterPack
+
+	ArchivePath	 ="patch1" 
+	OutputPath	 ="Source"
+	CreateXml	 ="true"
+	XmlPath		 ="becsomagolas.xml"/>
+
+</ScriptFile>
